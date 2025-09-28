@@ -1,0 +1,15 @@
+{
+    "dev": {
+        "base_url": "http://192.168.29.50:8000"
+    },
+    "uat": {
+        "base_url": "https://outistech-test.free.beeceptor.com",
+        "api_key": "***",
+        "one_signal_app_token": "***"
+    },
+    "prod": {
+        "base_url": "https://outistech.free.beeceptor.com",
+        "api_key": "***",
+        "one_signal_app_token": "***"
+    }
+}
